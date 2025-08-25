@@ -1,4 +1,5 @@
-***Olá, sejam bem-vindos***
+bellynick/README.md
+                                                                                    Olá, seja bem-vindo
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
  Meu nome é **Isabelly dos Reis Santos**, tenho **16 anos** e atualmente curso o **Ensino Médio Técnico Integrado em Informática para a Internet** no **Marista Escola Social Irmão Acácio**.  
@@ -8,6 +9,8 @@ Projetos em Destaque
 - **Página de Cadastro** → [Ver Projeto](http://127.0.0.1:5500/index3.html)  
 - **Relógio Digital** → [Ver Projeto](http://127.0.0.1:5500/index.html)
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 Habilidades e Tecnologias
 
 |Tecnologia / Ferramenta|            Nível                  |
@@ -16,7 +19,4 @@ Habilidades e Tecnologias
 | **Figma**             | Habilidade em desenvolvimento     |
 | **JavaScript**        | Habilidade em desenvolvimento     |
 |**Aprendizado rápido** | Facilidade em aprender tecnologia |
-
-https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%23e6addb&sc=%23e6addb
-
 
