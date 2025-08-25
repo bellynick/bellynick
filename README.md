@@ -1,4 +1,5 @@
-Olá, sejam bem-vindos
+***Olá, sejam bem-vindos***
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
  Meu nome é **Isabelly dos Reis Santos**, tenho **16 anos** e atualmente curso o **Ensino Médio Técnico Integrado em Informática para a Internet** no **Marista Escola Social Irmão Acácio**.  
 Tenho muito interesse na área de **informática** e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
