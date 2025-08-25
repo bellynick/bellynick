@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá, sejam bem-vindos
 
-<!--
-**bellynick/bellynick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é **Isabelly dos Reis Santos**, tenho **16 anos** e atualmente curso o **Ensino Médio Técnico Integrado em Informática para a Internet** no **Marista Escola Social Irmão Acácio**.  
+Tenho muito interesse na área de **informática** e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-Here are some ideas to get you started:
+Projetos em Destaque
+- **Página de Cadastro** → [Ver Projeto](http://127.0.0.1:5500/index3.html)  
+- **Relógio Digital** → [Ver Projeto](http://127.0.0.1:5500/index.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades e Tecnologias
+
+|Tecnologia / Ferramenta|            Nível                  |
+|-----------------------|-----------------------------------|
+| **Design**            | Habilidade em desenvolvimento     |
+| **Figma**             | Habilidade em desenvolvimento     |
+| **JavaScript**        | Habilidade em desenvolvimento     |
+|**Aprendizado rápido** | Facilidade em aprender tecnologia |
+
+https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%23e6addb&sc=%23e6addb
+
+
