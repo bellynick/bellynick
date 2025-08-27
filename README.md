@@ -22,7 +22,6 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bellynick&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bellynick&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Bellynick&layout=compact&theme=radical)
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
