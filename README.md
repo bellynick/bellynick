@@ -1,6 +1,6 @@
  <h1 align="center"> Olá, seja bem-vindo!</h1>
  
- Meu nome é **Isabelly dos Reis Santos**, tenho **16 anos** e atualmente curso o **Ensino Médio Técnico Integrado em Informática para a Internet** no **Marista Escola Social Irmão Acácio**.  
+ Meu nome é **Isabelly dos Reis Santos**, tenho **17 anos** e atualmente curso o **Ensino Médio Técnico Integrado em Informática para a Internet** no **Marista Escola Social Irmão Acácio**.  
 Tenho muito interesse na área de **informática** e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
