@@ -19,13 +19,7 @@ ________________________________________________________________________________
 ### Redes sociais e contato 
 
 <p>
-  <a href="https://www.linkedin.com/in/isabelly-dos-reis-santos-06642b310" target="_blank">
+  <a href="www.linkedin.com/in/isabelly-dos-reis-santos-557759406" target="_blank">
     <img src="./assets/linkedin.svg" width="30" alt="LinkedIn - Isabelly">
-  </a>
-</p>
-
-<p>
-   <a href="https://www.figma.com/@isabelly15" target="_blank">
-    <img src="./assets/figma.svg" width="30" alt="Figma - Isabelly">
   </a>
 </p>
